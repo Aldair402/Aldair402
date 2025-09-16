@@ -1,1 +1,1 @@
-Mi cuerpo es una maquina que conviurte dr pepper, cafe, varias horas sin dormir en un kernel con 30 commits robados a [@kerneltoast](https://github.com/kerneltoast) y codigo de dudosa calidad
+Also known as Mila, Eike, or Chococat, I'm just a normal person. 99% of the code here isn't mine, feel free to fork it or improve it. One day, I want to grow up and be as smart as the devs I admire, and be someone who makes software useful for everyone. <3
